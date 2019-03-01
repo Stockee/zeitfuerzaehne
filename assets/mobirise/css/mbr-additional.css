@@ -669,6 +669,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -1669,7 +1670,7 @@ body {
   }
 }
 .cid-qB26XhUkDV {
-  background-image: url("../../../assets/images/zfz-home-background-16-1920x1280.jpg");
+  background-image: url("../../../assets/images/zfz-home-background-4.jpg");
 }
 .cid-qB26XhUkDV .mbr-section-subtitle {
   letter-spacing: .2rem;
