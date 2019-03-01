@@ -855,7 +855,7 @@
                 "alt": "Wurzelbehandlung",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "title": ""
               },
               {
@@ -875,12 +875,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/zfz-home-praxis-behandlung-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zfz-home-praxis-behandlung-2-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zfz-home-praxis-behandlung-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zfz-home-praxis-behandlung-3-800x533.jpg",
                 "alt": "Zahnarzt für Kinder",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "title": ""
               },
               {
