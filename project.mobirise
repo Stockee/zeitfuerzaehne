@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zeit für Zähne",
-    "currentPage": "landingpage-schweiz.html",
+    "currentPage": "teams.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -65,7 +65,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Zeit für Zähne | Ihr Zentrum für Zahnmedizin",
+        "title": "Zeit für Zähne | Die Zahnspezialisten",
         "meta_descr": "Dr. Stockburger, Dr. Folberth M.Sc. & Dr. Fischer a.Z. | Die Spezialisten-Zahnarztpraxis für moderne und komplexe Zahnheilkunde in Gailingen am Hochrhein, direkt an der schweizer Grenze.",
         "header_custom": "",
         "footer_custom": "",
@@ -4847,7 +4847,7 @@
     "landingpage-schweiz.html": {
       "settings": {
         "meta_descr": "Zeit für Zähne ist Ihr Spezialisten-Zentrum direkt an der schweizer Grenze zwischen Schaffhausen und Stein am Rhein.  Besuchen Sie uns in Deutschland und profitieren Sie von einer Zahnbehandlung auf fachlich und technisch höchstem Niveau.",
-        "title": "Zum Spezialisten nach Deutschland",
+        "title": "Die Zahnspezialisten in Deutschland",
         "order": 9
       },
       "components": [
