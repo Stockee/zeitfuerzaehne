@@ -1051,7 +1051,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-qB2dd2npWa {
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
@@ -1078,9 +1078,9 @@ section.lazy-placeholder:after {
   color: #005596;
 }
 .cid-qB2omDaMQJ {
-  padding-top: 30px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #f9f9f9;
 }
 @media (min-width: 992px) {
   .cid-qB2omDaMQJ .mbr-figure {
@@ -1122,7 +1122,7 @@ section.lazy-placeholder:after {
 .cid-qB2cefHmDk {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 .cid-qB2cefHmDk .mbr-section-subtitle {
   color: #767676;
@@ -1132,8 +1132,8 @@ section.lazy-placeholder:after {
 }
 .cid-qB2pEUhpvW {
   padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+  padding-bottom: 30px;
+  background-color: #f9f9f9;
 }
 .cid-qB2pEUhpvW .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1174,8 +1174,8 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
 }
 .cid-qSiAy8gFFW {
-  padding-top: 60px;
-  padding-bottom: 45px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qSiAy8gFFW .mbr-section-subtitle {
@@ -1261,7 +1261,7 @@ section.lazy-placeholder:after {
   color: #005596;
 }
 .cid-qB2QknWKWo {
-  padding-top: 60px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-color: #efefef;
 }
