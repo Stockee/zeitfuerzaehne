@@ -997,29 +997,6 @@ section.lazy-placeholder:after {
     flex-shrink: 0;
   }
 }
-.cid-rTo9xulUN0 {
-  padding-top: 90px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-rTo9xulUN0 .line {
-  background-color: #00aeef;
-  color: #00aeef;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rTo9xulUN0 .section-text {
-  padding: 2rem 0;
-}
-.cid-rTo9xulUN0 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rTo9xulUN0 .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-qB26XhUkDV {
   background-image: url("../../../assets/images/zfz-home-background-4.jpg");
 }
