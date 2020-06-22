@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zeit für Zähne",
-    "currentPage": "landingpage-schweiz.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,9 +43,9 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsSwitcher": false,
     "siteUrl": "https://www.zeitfuerzaehne.com",
-    "sitemapSwitcherAuto": "",
+    "sitemapSwitcherAuto": false,
     "sitemapSwitcher": "on",
     "siteFonts": [
       {
@@ -61,7 +61,20 @@
     ],
     "сanonical-url": "",
     "canonical-url": "",
-    "imageResize": true
+    "imageResize": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "Um unsere Website für Sie zu verbessern, verwenden wir Cookies. Mit der weiteren Nutzung der Website stimmen Sie der Verwendung von Cookies zu. Mehr Informationen zu Cookies finden Sie in unserer <a href='datenschutz.html'>Datenschutzerklärung</a>.",
+      "textButton": "Zustimmen"
+    },
+    "gdpr": false
   },
   "pages": {
     "index.html": {
