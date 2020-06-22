@@ -65,9 +65,9 @@
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
+      "colorBg": "#efefef",
       "colorButton": "",
-      "colorLink": "#424a4d",
+      "colorLink": "#00aeef",
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
