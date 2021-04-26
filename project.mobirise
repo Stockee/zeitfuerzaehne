@@ -75,7 +75,7 @@
       "textButton": "Zustimmen"
     },
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
